@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/0.1/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/getting_started/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/swagger/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/blog/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/blog/2025/07/18/happy-new-years-eve/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/crud-router/installation/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/examples/Custom_Middleware/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/0.1/blog/archive/2025/</loc>
+         <lastmod>2025-06-20</lastmod>
+    </url>
+</urlset>
